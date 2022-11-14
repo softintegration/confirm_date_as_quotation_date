@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Sale order date as the quotation order date',
-    'version': '1.0.1',
+    'name': 'Sale date order set from quotation date',
+    'version': '1.0.1.1',
     'author':'Soft-integration',
     'category': 'Sales',
-    'summary': 'Configure the sale order date as the quotation order date',
+    'summary': 'Sale date order set from quotation date',
     'description': "",
     'depends': [
-        'sale',
+        'sale'
     ],
     'data': [
     ],
